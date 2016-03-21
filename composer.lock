@@ -4,8 +4,13 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+<<<<<<< ebb7b22c47dbb0011dd4c1aaf7851b265d183763
     "hash": "c1f1f93ab992f5b356c484377b10e223",
     "content-hash": "9faeaf9aa39d628bac142b41bb1e8b00",
+=======
+    "hash": "312a87267a8369f494ae0332a7e08032",
+    "content-hash": "a9b68d8da25532fee872bf093571d245",
+>>>>>>> Removed testing on php-5.4 and updated dependencies
     "packages": [
         {
             "name": "ramsey/uuid",
