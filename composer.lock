@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+<<<<<<< 4ba7c6e4249998312812acec2689278e9c9398ae
 <<<<<<< 2dfcd359b9c6deb28ce391a79cc49ef80560afdc
 <<<<<<< ebb7b22c47dbb0011dd4c1aaf7851b265d183763
     "hash": "c1f1f93ab992f5b356c484377b10e223",
@@ -14,6 +15,9 @@
 >>>>>>> Removed testing on php-5.4 and updated dependencies
 =======
     "hash": "bde5250fa0d75e3a3434169a03ad1328",
+=======
+    "hash": "a9b8098519ba3e35aaf8b8b34edb3e66",
+>>>>>>> Added support for an indexRedirect configuration option. Also changed the output of the index page somewhat. Fixes #440
     "content-hash": "6dd1a68b2a797d4e97f6f9e1554cadf5",
 >>>>>>> Updated dependencies
     "packages": [
